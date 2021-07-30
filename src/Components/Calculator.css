@@ -1,0 +1,145 @@
+.main{
+    text-align:center;
+}
+.main-form-one{
+    background-color:rgb(79, 79, 224);
+   display: flex;
+   flex-direction: column;
+}
+.main-form-one:hover{
+    background-image:url("https://www.crushpixel.com/big-static17/preview4/calories-chalk-white-icon-on-2626182.jpg");
+   display: flex;
+   flex-direction: column;
+   border:3px solid orange;
+}
+
+h2{
+    color:greenyellow;
+}
+.weight-btn{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+}
+#kg{
+    margin-right: 10px;
+    background-color: rgb(230, 38, 70);
+    color:white;
+    height:22px;
+    border:none;
+    border-radius:6px;
+}
+#weight-clear{
+    margin-left:10px;
+    background-color: rgb(230, 38, 70);
+    color:white;
+    height:22px;
+    border:none;
+    border-radius:6px;
+}#lbs{
+    background-color: rgb(230, 38, 70);
+    color:white;
+    height:22px;
+    border:none;
+    border-radius:6px;
+}
+.division-one{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+ 
+}
+.height-btn{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+}
+#feet{
+    margin-right: 10px;
+    background-color: green;
+    color:white;
+    height:22px;
+    border:none;
+    border-radius:6px;
+}
+#height-clear{
+    margin-left:10px;
+    background-color: green;
+    color:white;
+    height:22px;
+    border:none;
+    border-radius:6px;
+}
+#cm{
+    background-color: green;
+    color:white;
+    height:22px;
+    border:none;
+    border-radius:6px;
+}
+
+.division-two{
+    margin-top:30px;
+    margin-bottom:10px;
+}
+
+.division-three{
+    background-color:navy;
+}
+.division-three:hover{
+    background-color:navy;
+    border:3px solid orange;
+  
+}
+#age-clear{
+    border:none;
+    background-color:orange;
+    color:white;
+    height:22px;
+}
+#form{
+    color:aqua;
+}
+
+#genderdisplay{
+    background-color:navy;
+    color:aqua;
+    border:none;
+  
+}
+.gd{
+    margin-left: 120px;
+}
+
+.btn-arrangement{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
+
+#btn-tot{
+    border:none;
+    border-radius:6px;
+    background-color:brown;
+    color:white;
+    width:100px;
+    height:22px;
+
+}
+#calorie-btn{
+    border:none;
+    border-radius:6px;
+    background-color:yellow;
+    color:green;
+    width:100px;
+    height:22px;
+
+}
+#gender-clear{
+    border:none;
+    border-radius:6px;
+    background-color:brown;
+    color:white;
+    width:100px;
+    height:22px;
+}

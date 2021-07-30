@@ -1,0 +1,45 @@
+.nav{
+    background-color:aqua;
+  height:40px;
+}
+.yo{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left:50px;
+    padding-top:10px;
+}
+#login{
+    border:none;
+    width:100px;
+    background-color: blue;
+    color:white;
+    border-radius:4px;
+    height:22px;
+}
+#login:hover{
+    border:none;
+    width:100px;
+    background-color: blue;
+    color:white;
+    border-radius:4px;
+    border:2px solid white;
+    height:26px;
+}
+#register{
+    border:none;
+    width:100px;
+    background-color: blue;
+    color:white;
+    border-radius:4px;
+    height:22px;
+}
+#register:hover{
+    border:none;
+    width:100px;
+    background-color: blue;
+    color:white;
+    border-radius:4px;
+    border:2px solid white;
+    height:26px;
+}
